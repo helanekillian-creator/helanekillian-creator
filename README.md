@@ -2,11 +2,13 @@
 
 CompTIA A+ Certified IT Professional building hands-on experience in technical support and system administration.
 
-🖥️ Systems: Windows, Windows Server, Active Directory, Microsoft 365 and Oracle VirtualBox
+🔍 Curious by nature, driven to understand how things work.
 
-🎫Service Desk: Ticket handling, troubleshooting, customer support, and resolution
+🖥️ Systems: Windows, Windows Server, Active Directory, Microsoft 365 and Oracle VirtualBox.
 
-🛠️ Hands-on labs: User & account management, system administration, and technical troubleshooting
+🎫Service Desk: Ticket handling, troubleshooting, customer support, and resolution.
+
+🛠️ Hands-on labs: User & account management, system administration, and technical troubleshooting.
 
 🔗 [LinkedIn](https://linkedin.com/in/helane-killian)
 
