@@ -1,14 +1,16 @@
 ## Hi there I'm Helané👋
 
-CompTIA A+ Certified IT helpdesk professional in training - building hands-on experience in technical support and system administration.
+IT helpdesk professional in training - building hands-on experience in technical support and system administration.
+
+🏆 CompTIA A+ Certified
 
 🔍 Curious by nature, driven to understand how things work.
 
 🖥️ Systems: Windows, Windows Server, Active Directory, Microsoft 365 and Oracle VirtualBox.
 
-🎫Service Desk: Ticket handling, troubleshooting, customer support, and resolution.
+🎫Service Desk: Ticket handling, Troubleshooting, Customer Support, and Resolution.
 
-🛠️ Hands-on labs: User & account management, system administration, and technical troubleshooting.
+🛠️ Hands-on labs: User & account management, System administration, and Technical Troubleshooting.
 
 🔗 [LinkedIn](https://linkedin.com/in/helane-killian)
 
