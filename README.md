@@ -1,6 +1,6 @@
 ## Hi there I'm Helané👋
 
-CompTIA A+ Certified IT Professional building hands-on experience in technical support and system administration.
+CompTIA A+ Certified IT helpdesk professional in training - building hands-on experience in technical support and system administration.
 
 🔍 Curious by nature, driven to understand how things work.
 
